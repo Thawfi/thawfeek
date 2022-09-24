@@ -32,6 +32,7 @@ public class Employee {
 		cardNum.empPhone();
 		cardNum.empEmail();
 		cardNum.empAddress();
+		System.out.println();
 		
 		
 	}
